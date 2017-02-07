@@ -1,5 +1,6 @@
 # deck.py
 # Defines a class to represent a deck of playing cards
+# First python module
 # Author Erica Austin
 
 import random
